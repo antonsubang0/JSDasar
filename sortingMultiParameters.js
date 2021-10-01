@@ -1,6 +1,3 @@
-import 'bootstrap@4.6.0'
-import $ from 'jquery'
-
 const karyawan = [
   {nama: 'Anton', bagian: 'Hatchbrood'},
   {nama: 'Yosan', bagian: 'Pullchick'},
